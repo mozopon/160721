@@ -8,7 +8,7 @@
     <![CDATA[
 <!DOCTYPE html>
 
-<script src="//hangoutsapi.talkgadget.google.com/hangouts/_/api/hangout.js?v=1.1"></script>
+<script src="//plus.google.com/hangouts/_/api/v1/hangout.js"></script>
 
 <h1>Hello World!</h1>
 
